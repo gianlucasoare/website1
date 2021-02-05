@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.top-container {
+    position: relative;
+    background-color: #a696c8;
+    padding-top: 140px;
+    padding-bottom: 200px;
+}
+h1 {
+    margin: 100px auto 0 auto;
+    color: #fbd1b7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 4rem;
+
+}
+
+h2 {
+    color: #fbd1b7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+
+}
+
+h3 {
+    color: #fbd1b7;
+    font-family: 'Poppins', sans-serif;
+}
+hr {
+    border-color: #d3d6db;
+    border-style: dotted none none none;
+    border-width: 15px;
+    width: 5%;
+    margin: 150px auto;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.eye {
+    position: absolute;
+    top: 2px;
+    left: 840px;
+    margin: 0 auto 0 auto;
+    width: 350px;
+}
+.title {
+    position: relative;
+    top: 100px;
+
+}
+.lady {
+    position: absolute;
+    left: 100px;
+    top: 2px;
+    width: 500px;
+    border-radius: 10px;
+    opacity: 95%;
+}
+
+.blackgirl {
+    position: absolute;
+    right: 100px;
+    top: 2px;
+    width: 526px;
+    border-radius: 10px;
+    opacity: 95%;
+
+}
+
+
+.middle-container {
+    background-color: #fef6fb;
+    padding-bottom: 1px;
+    overflow: auto;
+}
+
+.profilepic {
+    width: 200px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+
+.skill-section {
+    width: 50%;
+    margin: 300px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.left-gif {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    bottom: 150px;
+    right: 40px;
+}
+
+
+.right-gif {
+    width: 300px;
+    float: right;
+    margin-left: 20px;
+    position: relative;
+    bottom: 180px;
+}
+.hobby-gif {
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    bottom: 320px;
+}
+
+.bottom-container {
+    background-color: #a696c8;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.twitter {
+    margin: 0 20px;
+}
+
+
+
